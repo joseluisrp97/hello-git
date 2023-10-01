@@ -1,3 +1,3 @@
 print("New Hello Gir!")
-print("Qué tal el curso?")
+print("New Hello")
 
